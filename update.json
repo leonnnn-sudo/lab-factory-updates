@@ -1,0 +1,7 @@
+{
+    "product":  "Lab Factory",
+    "version":  8,
+    "notes":  "Lab Factory 8: professional UX, self-update Control Centre and private Tailscale phone access.",
+    "bundle_url":  "https://github.com/leonnnn-sudo/lab-factory-updates/releases/download/v8/Lab_Factory_v8_Tailscale.lfupdate",
+    "sha256":  "fee1cd7a07a056cf8d64cdc1c336fde2ff27f1e3f36cd0ece4a3eafd2871995c"
+}
